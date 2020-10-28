@@ -23,6 +23,6 @@ public class Main {
         System.out.println("char: " + ch_first);
         System.out.println("char: " + ch_second);
         System.out.println("boolean: " + bool);
-        System.out.println("name: " + name + ch_second);
+        System.out.println("name:  " + name + ch_second);
     }
 }
