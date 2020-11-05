@@ -1,11 +1,7 @@
 package com.company;
 
 public class Homeworks {
-    public static void main(String[] args) {
-        Homeworks homework = new Homeworks();
-        homework.nonRepeating();
-    }
-
+    
     int a = 12;
     int b = 5;
 
